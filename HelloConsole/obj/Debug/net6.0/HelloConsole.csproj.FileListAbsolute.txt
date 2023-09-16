@@ -1,0 +1,15 @@
+D:\GeekBrains\Git\C#\16_09_23C#1L\HelloConsole\bin\Debug\net6.0\HelloConsole.exe
+D:\GeekBrains\Git\C#\16_09_23C#1L\HelloConsole\bin\Debug\net6.0\HelloConsole.deps.json
+D:\GeekBrains\Git\C#\16_09_23C#1L\HelloConsole\bin\Debug\net6.0\HelloConsole.runtimeconfig.json
+D:\GeekBrains\Git\C#\16_09_23C#1L\HelloConsole\bin\Debug\net6.0\HelloConsole.dll
+D:\GeekBrains\Git\C#\16_09_23C#1L\HelloConsole\bin\Debug\net6.0\HelloConsole.pdb
+D:\GeekBrains\Git\C#\16_09_23C#1L\HelloConsole\obj\Debug\net6.0\HelloConsole.csproj.AssemblyReference.cache
+D:\GeekBrains\Git\C#\16_09_23C#1L\HelloConsole\obj\Debug\net6.0\HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Git\C#\16_09_23C#1L\HelloConsole\obj\Debug\net6.0\HelloConsole.AssemblyInfoInputs.cache
+D:\GeekBrains\Git\C#\16_09_23C#1L\HelloConsole\obj\Debug\net6.0\HelloConsole.AssemblyInfo.cs
+D:\GeekBrains\Git\C#\16_09_23C#1L\HelloConsole\obj\Debug\net6.0\HelloConsole.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Git\C#\16_09_23C#1L\HelloConsole\obj\Debug\net6.0\HelloConsole.dll
+D:\GeekBrains\Git\C#\16_09_23C#1L\HelloConsole\obj\Debug\net6.0\refint\HelloConsole.dll
+D:\GeekBrains\Git\C#\16_09_23C#1L\HelloConsole\obj\Debug\net6.0\HelloConsole.pdb
+D:\GeekBrains\Git\C#\16_09_23C#1L\HelloConsole\obj\Debug\net6.0\HelloConsole.genruntimeconfig.cache
+D:\GeekBrains\Git\C#\16_09_23C#1L\HelloConsole\obj\Debug\net6.0\ref\HelloConsole.dll
